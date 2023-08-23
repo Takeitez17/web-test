@@ -1,0 +1,15 @@
+// 
+// Styles
+// 
+@import "./variables";
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+
+// Components
+@import "./components/icons";
+
+// Sections
+@import "./sections/main";
+@import "./sections/modal_window";
+@import "./sections/footer";
